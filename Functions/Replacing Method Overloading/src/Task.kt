@@ -1,0 +1,1 @@
+fun volume(length: Int, width: Int = length, height: Int = length) = length * width * height
